@@ -1,0 +1,2 @@
+# Aircombat_MARL2
+主体采用MAPPO算法，引入Transformer机制解决空战对抗中部分可观测问题，以迁移学习和自博弈框架对无人机进行训练
